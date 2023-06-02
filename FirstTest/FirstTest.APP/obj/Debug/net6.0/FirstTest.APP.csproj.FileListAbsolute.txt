@@ -1,0 +1,15 @@
+C:\test projets\FirstTest\FirstTest\FirstTest.APP\obj\Debug\net6.0\FirstTest.APP.csproj.AssemblyReference.cache
+C:\test projets\FirstTest\FirstTest\FirstTest.APP\obj\Debug\net6.0\FirstTest.APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\test projets\FirstTest\FirstTest\FirstTest.APP\obj\Debug\net6.0\FirstTest.APP.AssemblyInfoInputs.cache
+C:\test projets\FirstTest\FirstTest\FirstTest.APP\obj\Debug\net6.0\FirstTest.APP.AssemblyInfo.cs
+C:\test projets\FirstTest\FirstTest\FirstTest.APP\obj\Debug\net6.0\FirstTest.APP.csproj.CoreCompileInputs.cache
+C:\test projets\FirstTest\FirstTest\FirstTest.APP\bin\Debug\net6.0\FirstTest.APP.exe
+C:\test projets\FirstTest\FirstTest\FirstTest.APP\bin\Debug\net6.0\FirstTest.APP.deps.json
+C:\test projets\FirstTest\FirstTest\FirstTest.APP\bin\Debug\net6.0\FirstTest.APP.runtimeconfig.json
+C:\test projets\FirstTest\FirstTest\FirstTest.APP\bin\Debug\net6.0\FirstTest.APP.dll
+C:\test projets\FirstTest\FirstTest\FirstTest.APP\bin\Debug\net6.0\FirstTest.APP.pdb
+C:\test projets\FirstTest\FirstTest\FirstTest.APP\obj\Debug\net6.0\FirstTest.APP.dll
+C:\test projets\FirstTest\FirstTest\FirstTest.APP\obj\Debug\net6.0\refint\FirstTest.APP.dll
+C:\test projets\FirstTest\FirstTest\FirstTest.APP\obj\Debug\net6.0\FirstTest.APP.pdb
+C:\test projets\FirstTest\FirstTest\FirstTest.APP\obj\Debug\net6.0\FirstTest.APP.genruntimeconfig.cache
+C:\test projets\FirstTest\FirstTest\FirstTest.APP\obj\Debug\net6.0\ref\FirstTest.APP.dll
